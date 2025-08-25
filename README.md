@@ -57,7 +57,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c4ccb39f-af3c-4bc1-ab77-46ce713c0099" />|<img width="640" height="480" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ce2fe3c1-183f-476f-8f7d-28322becbb34" />|
 
 #### Manual Calculations
 
@@ -139,7 +139,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="651" height="422" alt="Screenshot 2025-08-25 135416" src="https://github.com/user-attachments/assets/3f902b63-0526-4e0c-8076-f8e6caa69da4" />|<img width="641" height="435" alt="Screenshot 2025-08-25 135444" src="https://github.com/user-attachments/assets/9fdb403e-dd23-4551-a19d-fb732a2a7294" />|
 
 #### Manual Calculations
 
@@ -184,7 +184,9 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img w<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/fd8dbb3c-b3a1-454a-be06-f369ff40b17f" />|<img width="640" height="480" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/466395d1-ef1b-4c91-8bc1-fa3c81b0ef8b" />|
+
+
 
 #### Manual Calculations
 
