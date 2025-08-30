@@ -57,11 +57,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/01f65334-66ff-4264-a5b1-7df651705192" />|<img width="640" height="480" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/20777f3a-ba72-47f4-8951-eb7437d6fd36" />
 
 #### Manual Calculations
 
-(Add your calculation here)
+(![WhatsApp Image 2025-08-30 at 12 52 05_ba957d4a](https://github.com/user-attachments/assets/b6a32df6-cd94-4fd2-9152-89f6180d9377)
+)
 
 ---
 
@@ -90,11 +91,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="1271" height="809" alt="Screenshot 2025-08-30 124725" src="https://github.com/user-attachments/assets/5742449b-beda-47d6-bddb-95cd47683c80" />|<img width="1264" height="859" alt="Screenshot 2025-08-30 124739" src="https://github.com/user-attachments/assets/6dd52ebd-5eec-4dcd-9ec9-f7e02fd87c20" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+(![WhatsApp Image 2025-08-30 at 12 54 05_04f070c9](https://github.com/user-attachments/assets/edcbf540-af35-442e-801b-ca7e938313a6)
+)
 
 ---
 
@@ -139,11 +141,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="651" height="422" alt="Screenshot 2025-08-25 135416" src="https://github.com/user-attachments/assets/df9151c9-87a6-4dc0-911c-0535c470b4c1" />|<img width="641" height="435" alt="Screenshot 2025-08-25 135444" src="https://github.com/user-attachments/assets/9f98b0dc-f446-4759-b35f-81c31d0cba21" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+(![WhatsApp Image 2025-08-30 at 12 58 09_96ae8c9c](https://github.com/user-attachments/assets/4dea862b-c454-4311-802e-461d178289a8)
+)
 
 ---
 
@@ -184,11 +187,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ffaf86c3-af04-4af0-b82e-9c37e8476f5b" /> |<img width="640" height="480" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/75bbc7f0-c82e-47b6-9f35-64ce3df62d0e" /> |
 
 #### Manual Calculations
 
-(Add your calculation here)
+(![WhatsApp Image 2025-08-30 at 13 00 29_0c287fef](https://github.com/user-attachments/assets/3aa985a8-2263-4923-b94a-cd589914888b)
+)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
